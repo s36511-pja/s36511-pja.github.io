@@ -1,11 +1,82 @@
-header {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.yur {
     border: 10px dotted pink;
     margin: 5px;
     text-align: center;
     border-radius: 50px;
 }
 
-p {
+.yurimpsum {
     background-color: lightcyan;
     border-radius: 25px;
     margin: 50px 3%;
