@@ -127,6 +127,13 @@ h1{
     text-align: center;
 }
 
+.tekst_special{
+    font-family: Georgia, serif;
+    font-weight: 500;
+    font-size: large;
+    width: 60%;
+}
+
 ul{
     font-family: Georgia, serif;
     font-weight: 500;
